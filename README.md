@@ -19,3 +19,5 @@
    ```
    [Instale o npx caso não tenha instalado por padrão com: $ npm install -g npx]
    ```
+
+Projeto feito em grupo
